@@ -16,8 +16,20 @@ This is a **simple calculator** application built using **Java Swing** for the g
 - **Java AWT**: For event handling and component layouts
 - **JButton** and **JTextField**: For creating interactive buttons and display fields
 
+
+  ## Screenshots
+
+Here’s a sneak peek of the Calculator in action:
+
+![Calculator UI](assest/FullScreenshot.png)
+*calculator interface*
+
+![Calculator Result](assest/calculatorscreenshot.png)
+*calculator interface*
+
+
 ## How to Run the Application
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/Ritesh-Gawai/calculator-app.git

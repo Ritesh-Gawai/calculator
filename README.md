@@ -24,7 +24,7 @@ Here’s a sneak peek of the Calculator in action:
 ![Calculator UI](assest/FullScreeshot.png)
 *calculator interface*
 
-![Calculator Result](assest/calculator screenshot.png)
+![Calculator Result](assest/calculatorscreenshot.png)
 *calculator interface*
 
 

@@ -21,10 +21,10 @@ This is a **simple calculator** application built using **Java Swing** for the g
 
 Here’s a sneak peek of the Calculator in action:
 
-![Calculator UI](assest/FullScreenshot.png)
+![Calculator UI](assest/FullScreeshot.png)
 *calculator interface*
 
-![Calculator Result](assest/calculatorscreenshot.png)
+![Calculator Result](assest/calculator screenshot.png)
 *calculator interface*
 
 
